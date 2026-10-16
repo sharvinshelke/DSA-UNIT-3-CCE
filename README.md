@@ -18,17 +18,12 @@ Managing luggage records at an airport can be difficult when many bags need to b
 - To implement linked-list operations in C++.
 
 4. Features
-1. Add Luggage:** Insert a new Bag ID into the linked list.
-2. Display Luggage:** Display all stored Bag IDs.
-3. Search Luggage:** Search for a specific Bag ID.
-4. Delete Luggage:** Remove a luggage record using its Bag ID.
-5. Exit: Terminate the program.
+. Add Luggage:** Insert a new Bag ID into the linked list.
+. Display Luggage:** Display all stored Bag IDs.
+. Search Luggage:** Search for a specific Bag ID.
+. Delete Luggage:** Remove a luggage record using its Bag ID.
+. Exit: Terminate the program.
 
-5. Technology Used
-- Programming Language:** C++
-- Data Structure: Singly Linked List
-- Compiler: GCC / g++
-- Editor:Visual Studio Code or any C++ IDE
 
 6. Data Structure
 Each node contains:
